@@ -3,9 +3,12 @@ padding: 0;
 margin: 0;
 
 }
+html{
+  height: 100%;
+}
 body{
     color: white;
-     height: 100vh;
+     height: 100%;
     /* width: 100vw; */ 
     background: url('https://cdn.pixabay.com/photo/2021/09/07/07/11/game-console-6603120_1280.jpg') no-repeat center/cover;
 
