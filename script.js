@@ -10,6 +10,8 @@ const rightValue = document.getElementById("rightValue");
 const heading = document.getElementById("heading");
 const loading = document.getElementById('loading')
 
+
+
 //Object to get meaning or values
 const word = {
   apple: "a fruit with red or green skin and a crisp texture.",
@@ -90,7 +92,7 @@ function meaning() {
         setTimeout(function(){
           // let val =  showValue.innerText =`${searchValue} : ${word[searchValue]}`;
           showValue.style.opacity = 0;
-        },2000)  
+        },3000)  
       
         showValue.style.opacity = 1;
 
