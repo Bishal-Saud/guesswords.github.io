@@ -1,4 +1,4 @@
-#readme 
+echo "# guesswords.github.io" 
 Objective:
 The objective of the 'meaning' function is to search for a user input word in the 'word' object and display its meaning on the webpage. If the input word is not found in the object, the function increases a count variable and displays a message indicating that the word was not found. If the count variable exceeds a certain value, the function ends the game and displays a message indicating that the user has lost.
 
