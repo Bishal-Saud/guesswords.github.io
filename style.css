@@ -126,6 +126,9 @@ label{
 
 
   @media (max-width: 300px) {
+    body{
+      height: 100%;
+    }
     #heading{
         font-size: 28px;
     }
